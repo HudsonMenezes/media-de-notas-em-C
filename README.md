@@ -1,2 +1,4 @@
-# media-de-notas-em-C
-Aula da faculdade Ampli - Média de Notas feita em linguagem C
+# Programando em C
+## Programa feito em C para calcular média de notas de alunos.
+
+Programa feito enquanto praticava o que estudei na aula do 1º semestre de Engenharia de Software pela Ampli.
